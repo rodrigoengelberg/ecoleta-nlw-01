@@ -11,16 +11,16 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/WallysonGalvao/rocketseat-nlw-ecoleta">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigoengelberg/rocketseat-nlw-ecoleta">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/WallysonGalvao/rocketseat-nlw-ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigoengelberg/rocketseat-nlw-ecoleta">
   
-  <a href="https://github.com/WallysonGalvao/rocketseat-nlw-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/WallysonGalvao/rocketseat-nlw-ecoleta">
+  <a href="https://github.com/rodrigoengelberg/rocketseat-nlw-ecoleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigoengelberg/rocketseat-nlw-ecoleta">
   </a>
 
-  <a href="https://github.com/WallysonGalvao/rocketseat-nlw-ecoleta/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/WallysonGalvao/rocketseat-nlw-ecoleta">
+  <a href="https://github.com/rodrigoengelberg/rocketseat-nlw-ecoleta/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/rodrigoengelberg/rocketseat-nlw-ecoleta">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -64,4 +64,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com horas em frente ao :computer: por [Wallyson Galvão](https://www.linkedin.com/in/wallyson-galvao/)
+Feito com horas em frente ao :computer: por [Rodrigo Engelberg](https://www.linkedin.com/in/rodrigoengelberg/)
