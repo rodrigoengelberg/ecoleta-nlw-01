@@ -11,16 +11,16 @@
 </h4>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigoengelberg/rocketseat-nlw-ecoleta">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rodrigoengelberg/ecoleta-nwl-01">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigoengelberg/rocketseat-nlw-ecoleta">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rodrigoengelberg/ecoleta-nwl-01">
   
-  <a href="https://github.com/rodrigoengelberg/rocketseat-nlw-ecoleta/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigoengelberg/rocketseat-nlw-ecoleta">
+  <a href="https://github.com/rodrigoengelberg/ecoleta-nwl-01/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rodrigoengelberg/ecoleta-nwl-01">
   </a>
 
-  <a href="https://github.com/rodrigoengelberg/rocketseat-nlw-ecoleta/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/rodrigoengelberg/rocketseat-nlw-ecoleta">
+  <a href="https://github.com/rodrigoengelberg/ecoleta-nwl-01/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/rodrigoengelberg/ecoleta-nwl-01">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
