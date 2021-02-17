@@ -56,7 +56,35 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :rocket: Executando
 
-Dentro do **README** de cada subpasta do projeto é detalhado como executar as aplicações.
+Para rodar esse projeto existem duas maneiras para você escolher, a Live Version que é a versão que está rodando em nuvem para que você conferir, e a versão em Localhost, que é onde você baixa o projeto completo e roda a partir do seu terminal.
+
+### Local Host:
+Também é possível rodar essa aplicação localmente em um computador ou notebook, para isso é necessário ter alguns programas instalados:
+
+#### Node.js e NPM
+
+É necessário instalar o node e npm(ou yarn) para rodar essa aplicação localmente. Para verificar se já tem instalado, execulte em seu terminal os seguintes comandos:
+```sh
+node -v
+```
+```sh
+npm -v
+```
+Caso o retorno de algum dos dois comandos sejam um erro, é necessário instalar o Node.js e o NPM.
+
+##### Guias para download e instalação do Node.js e NPM:
+Para download: acesse o [site oficial](https://nodejs.org/en/) do Node.js e siga o passo a passo.
+
+Com o Node.js e NPM instalados corretamente, abra o seu terminal na pasta do projeto e  execute o seguinte comando:
+
+Inicie o servidor:
+```sh
+npm start
+```
+
+Aguarde alguns instantes.
+
+Caso tudo dê certo, o resultado esperado é abrir um servidor na porta 3333, você pode acessar em http://localhost:3333/.
 
 ## :memo: Licença
 
