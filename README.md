@@ -54,7 +54,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Leafletjs](https://leafletjs.com/) | [React-leaflet](https://react-leaflet.js.org/)
 - [IBGE API](https://servicodados.ibge.gov.br/api/docs)
 
-## :notebook: Executando
+## :rocket: Executando
 
 Dentro do **README** de cada subpasta do projeto é detalhado como executar as aplicações.
 
